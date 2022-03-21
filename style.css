@@ -1,0 +1,24 @@
+
+body{
+    background-image: url('garden.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale();
+    overflow: hidden;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+img{
+    display: block;
+    margin: 500px auto;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: #fff;
+}
